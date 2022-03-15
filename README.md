@@ -7,6 +7,7 @@ My personal JavaScript links bookmark
 - [The Definitive Guide to Object Oriented in JavaScript](http://www.objectplayground.com)
 - [Design patterns for building powerful web apps with vanilla JavaScript and React](https://www.patterns.dev/)
 - [The Best JavaScript Courses](https://braziljs.org/blog/os-melhores-cursos-online-para-aprender-javascript/) (Portuguese)
+- [Design Patterns Guru](https://refactoring.guru/design-patterns/)
 
 ## Games
 
