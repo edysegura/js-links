@@ -18,3 +18,7 @@ My personal JavaScript links bookmark
 - [Keep betting on JavaScript](https://youtu.be/ixzK0jqLO70)
 - [Semicolons cannot save you!](https://www.youtube.com/watch?v=Qlr-FGbhKaI)
 - [Are Semicolons Necessary in JavaScript?](https://www.youtube.com/watch?v=gsfbh17Ax9I)
+
+## Tools
+
+- [Tom Select](https://tom-select.js.org/)
