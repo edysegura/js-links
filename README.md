@@ -14,6 +14,7 @@ My personal JavaScript links bookmark
 
 - [Code Combat](https://codecombat.com/)
 - [Universe in JavaScript](https://www.jesuisundev.com/en/i-built-the-entire-universe-in-javascript/)
+- [10 Games to learn JavaScript](https://dev.to/dailydevtips1/10-games-to-learn-javascript-155j)
 
 ## Talks
 
