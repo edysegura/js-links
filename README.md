@@ -9,6 +9,7 @@ My personal JavaScript links bookmark
 - [Design patterns for building powerful web apps with vanilla JavaScript and React](https://www.patterns.dev/)
 - [The Best JavaScript Courses](https://braziljs.org/blog/os-melhores-cursos-online-para-aprender-javascript/) (Portuguese)
 - [Design Patterns Guru](https://refactoring.guru/design-patterns/)
+- [Is Node.js bad?](https://youtube.com/shorts/fk7zZnWrD58?si=v8bPm8UgG7pmKtqa)
 
 ## Games
 
